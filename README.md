@@ -9,13 +9,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://25.media.tumblr.com/f982040f6623e27ab2d0ad8b58a827f3/tumblr_mg4esqS3XS1rtq0ilo1_500.gif"  />
+<img align="left" height="156" src="https://25.media.tumblr.com/f982040f6623e27ab2d0ad8b58a827f3/tumblr_mg4esqS3XS1rtq0ilo1_500.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -31,20 +29,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/gracimarperez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gracimars/Gracimars/output/snake.svg" alt="Snake animation" />
 
 ###
